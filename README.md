@@ -1,1 +1,1 @@
-# Praktikum-Konsep-Jaringan
+# Praktikum-Komputer-Jaringan
